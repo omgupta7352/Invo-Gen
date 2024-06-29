@@ -16,6 +16,22 @@ An Invoice creator project built with React and Redux. Add itemized items, confi
 - [Contributing](#contributing)
 - [License](#license)
 
+## Features
+
+- Create new invoices with custom details.
+- Edit existing invoices.
+- Delete invoices.
+- Download invoices as PDF.
+- Responsive design for mobile and desktop use.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- BootStrap
+
 ### Live Demo
 https://invo-gen.netlify.app/
 ### Installation
