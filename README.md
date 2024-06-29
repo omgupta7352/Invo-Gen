@@ -64,14 +64,9 @@ To run this project locally, follow these steps:
 
 ### Live Demo
 https://invo-gen.netlify.app/
-### Installation
 
-```
-https://github.com/omgupta7352/Invo-Gen.git
-npm install
 
-npm start / npm run build
-```
+## Usage
 
 ### How to use the app
 - Click on the **"Create New Invoice"** button to *create a new invoice*.
