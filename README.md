@@ -32,6 +32,36 @@ An Invoice creator project built with React and Redux. Add itemized items, confi
 - React
 - BootStrap
 
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/invoice_generator.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd invoice_generator
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+5. Open your web browser and go to `http://localhost:3000`.
+
 ### Live Demo
 https://invo-gen.netlify.app/
 ### Installation
