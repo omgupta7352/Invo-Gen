@@ -14,7 +14,7 @@ An Invoice creator project built with React and Redux. Add itemized items, confi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -67,3 +67,29 @@ npm start / npm run build
 - [x] Ensure proper state management throughout the application by connecting components to the Redux store.
 - [x] Make sure the application handles errors gracefully
 - [x] Write clean, well-documented, and modular code.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+
+3. Commit your changes:
+
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+
+4. Push to the branch:
+
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+
+5. Open a pull request on GitHub.
+
