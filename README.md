@@ -35,7 +35,7 @@ An Invoice creator project built with React and Redux. Add itemized items, confi
 
 ## Demo
 
-You can try out the Invo-Gen live [here](https://react-calculator-omgupta.netlify.app/).
+You can try out the Invo-Gen live [here](https://invo-gen.netlify.app/).
 
 
 ## Installation
